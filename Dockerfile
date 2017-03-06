@@ -1,5 +1,5 @@
 # AlpineLinux with a glibc-2.23 and Oracle Java 7
-FROM lightinglyg/alpine-base:3.4
+FROM hub.c.163.com/lightingfire/alpine-base:3.4
 
 MAINTAINER firewarm LightingLiu <liuyg@liuyingguang.cn>
 # thanks to Vladimir Krivosheev <develar@gmail.com> aka @develar for smaller image
